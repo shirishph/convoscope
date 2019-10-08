@@ -1,0 +1,50 @@
+[
+    {
+        "user": "hi! i need help",
+        "bot": "Hello! How may I help you?"
+    },
+    {
+        "user": "What time is it now?",
+        "bot": "16:11"
+    },
+    {
+        "user": "Can you play some music?",
+        "bot": "Sure I can. What genre would you like"
+    },
+    {
+        "user": "Rap",
+        "bot": "Rap coming on in a moment"
+    },
+    {
+        "user": "I am so happy and full of joy now",
+        "bot": "Cool"
+    },
+    {
+        "user": "Stop music",
+        "bot": "Stopped music"
+    },
+    {
+        "user": "Will you stop you stupid idiot",
+        "bot": "Sure we could stop"
+    },
+    {
+        "user": "What is the meaning of life?",
+        "bot": "Sorry I can't answer that question"
+    },
+    {
+        "user": "Where is the money?",
+        "bot": "I'm so very happy and elated and overjoyed"
+    },
+    {
+        "user": "You suck bot",
+        "bot": "Sorry I don't follow you"
+    },
+    {
+        "user": "You are an idiot",
+        "bot": "Sorry I don't follow you"
+    },
+    {
+        "user": "Can you tell me if my insurance has been paid",
+        "bot": "Yes it was on 11th of September"
+    }
+]
