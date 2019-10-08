@@ -1,0 +1,8 @@
+Flask==1.1.1
+Flask-Cors==3.0.8
+h5py==2.10.0
+keras==1.1.0
+pandas
+requests==2.22.0
+theano==0.8.2
+vaderSentiment==3.2.1
