@@ -8,6 +8,7 @@
     "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.9.0",
     "react-google-charts": "^3.0.15",
+    "react-list-view": "^1.0.0",
     "segmented-control": "^0.1.12",
     "vader-sentiment": "^1.1.3"
   },
